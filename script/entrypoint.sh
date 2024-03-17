@@ -1,6 +1,3 @@
-# airflow follows this when its time to initialize the web server
-# docker-compose.yml line 124, line 110
-
 #!/bin/bash
 set -e
 
